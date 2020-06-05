@@ -1,3 +1,10 @@
+div.cneter {
+  height: 20em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.center p {
+  margin: 0 }
 
 
 @font-face {
